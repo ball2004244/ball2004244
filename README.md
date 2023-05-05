@@ -6,10 +6,17 @@ I am currently a Backend engineer that thrive to learn about database and server
 
 
 <!-- GitHub Stats -->
-![ball2004244's Stats](https://github-readme-stats.vercel.app/api?username=ball2004244&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) <br />
-![ball2004244's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ball2004244&theme=tokyonight&hide_border=true) <br />
-![ball2004244's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ball2004244&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) <br />
-
+![ball2004244's Stats](https://github-readme-stats.vercel.app/api?username=ball2004244&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<br />
+<br />
+<br />
+![ball2004244's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ball2004244&theme=tokyonight&hide_border=true) 
+<br />
+<br />
+<br />
+![ball2004244's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ball2004244&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) 
+<br />
+<br />
 
 ## ✨About me
 - 🔭 I’m currently working on Backend projects.
