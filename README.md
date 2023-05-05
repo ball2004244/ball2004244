@@ -1,7 +1,10 @@
 ### Hi there 👋, My name is ✨Jack Nguyen✨
 I am currently a Backend engineer that thrive to learn about database and server architechture. Welcome to my Profile!
 
-[![Ball2004244's GitHub stats](https://github-readme-stats.vercel.app/api?username=ball2004244)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ball2004244&theme=tokyonight&card_width=500)](https://git.io/streak-stats)
+
+<a href=https://www.linkedin.com/in/tam-nguyen-cs/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=ball2004244&color=blue">
+
 
 - 🔭 I’m currently working on Backend projects.
 - 🌱 I’m currently learning AWS and Docker for website hosting.
