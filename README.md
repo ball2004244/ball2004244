@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is ✨Jack Nguyen✨
 I am currently a Backend engineer that thrive to learn about database and server architechture. Welcome to my Profile!
-![Group 1](https://user-images.githubusercontent.com/58461444/206890835-73790b59-6e7c-445b-ae82-ce2c7eaa07d0.png)
+
 [![Ball2004244's GitHub stats](https://github-readme-stats.vercel.app/api?username=ball2004244)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Backend projects.
