@@ -2,15 +2,13 @@
 I am currently a Backend engineer that thrive to learn about database and server architechture. Welcome to my Profile!
 
 
-<a href=https://www.linkedin.com/in/tam-nguyen-cs/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> 
-
-<img src="https://komarev.com/ghpvc/?username=ball2004244&color=blue">
+<a href=https://www.linkedin.com/in/tam-nguyen-cs/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> <img src="https://komarev.com/ghpvc/?username=ball2004244&color=blue">
 
 
 <!-- GitHub Stats -->
-![ball2004244's Stats](https://github-readme-stats.vercel.app/api?username=ball2004244&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![ball2004244's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ball2004244&theme=tokyonight&hide_border=true)
-![ball2004244's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ball2004244&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![ball2004244's Stats](https://github-readme-stats.vercel.app/api?username=ball2004244&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) <br />
+![ball2004244's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ball2004244&theme=tokyonight&hide_border=true) <br />
+![ball2004244's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ball2004244&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) <br />
 
 
 ## ✨About me
