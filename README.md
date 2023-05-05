@@ -2,9 +2,9 @@
 I am currently a Backend engineer that thrive to learn about database and server architechture. Welcome to my Profile!
 
 
-<a href=https://www.linkedin.com/in/tam-nguyen-cs/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=ball2004244&color=blue">
+<a href=https://www.linkedin.com/in/tam-nguyen-cs/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> 
 
-<img src="https://komarev.com/ghpvc/?username=anhduy1202&color=blue">
+<img src="https://komarev.com/ghpvc/?username=ball2004244&color=blue">
 
 
 <!-- GitHub Stats -->
