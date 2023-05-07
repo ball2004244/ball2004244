@@ -24,6 +24,5 @@ I am currently a Backend engineer that thrive to learn about database and server
 - 👯 I’m looking to collaborate on multi-purpose application, and my interest is in AI and Education.
 - 🤔 I’m looking for help with my career journey.
 - 💬 Ask me about everything in SWE, I would try my best to answer.
-- 📫 How to reach me: https://www.linkedin.com/in/tam-nguyen-cs/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing rubik!
