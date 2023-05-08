@@ -27,7 +27,7 @@ I am currently a Backend engineer that thrive to learn about database and server
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing rubik!
 
-## ✨My Project:
+## ✨My Project
 - Cross-platform ChatApp: https://github.com/ball2004244/Message_Platform
 - IdeaBoard for Google Developer Student Club at USF: https://github.com/USFGDSC/USFGDSC-IdeaBoard_GDSC2023
 - Class Registration Website: https://github.com/ball2004244/ClassRegistrationWebsite
