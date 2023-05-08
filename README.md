@@ -26,3 +26,12 @@ I am currently a Backend engineer that thrive to learn about database and server
 - 💬 Ask me about everything in SWE, I would try my best to answer.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing rubik!
+
+## ✨My Project:
+- Cross-platform ChatApp: https://github.com/ball2004244/Message_Platform
+- IdeaBoard for Google Developer Student Club at USF: https://github.com/USFGDSC/USFGDSC-IdeaBoard_GDSC2023
+- Class Registration Website: https://github.com/ball2004244/ClassRegistrationWebsite
+- USF Chatible for Hackabull 2023: https://github.com/ball2004244/hackabull23
+- Slime Hunter game for Microsoft Pygame Hackathon: https://github.com/ball2004244/Slime-hunter
+- Stock Prediction Model: https://github.com/ball2004244/StockPrediction
+- My very first game: https://github.com/ball2004244/Flappy-Tam
