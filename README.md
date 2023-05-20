@@ -1,4 +1,4 @@
-## Hi there 👋, My name is ✨Jack Nguyen✨
+## Hi there 👋, My name is ✨Tam Nguyen✨
 I am currently a Backend engineer that thrive to learn about database and server architechture. Welcome to my Profile!
 
 
