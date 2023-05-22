@@ -189,6 +189,9 @@
 
 <div align="center" class="footer">
   <img src="https://komarev.com/ghpvc/?username=ball2004244&color=blue">
+  
+  <br />
+  
   <a href="https://paypal.me/jack07124" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center"/>
   </a>
