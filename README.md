@@ -35,3 +35,23 @@ I am currently a Backend engineer that thrive to learn about database and server
 - Slime Hunter game for Microsoft Pygame Hackathon: https://github.com/ball2004244/Slime-hunter
 - Stock Prediction Model: https://github.com/ball2004244/StockPrediction
 - My very first game: https://github.com/ball2004244/Flappy-Tam
+
+## ✨Tech Stack
+<!-- Language -->
+<div align="center">  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+</div>
+
+<!-- Framework -->
+<div align="center">  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+</div>
+
+<!-- DevOps -->
+<div align="center">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+</div>
