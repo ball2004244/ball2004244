@@ -56,7 +56,7 @@
 
 <br />
 
-<div align="center" class="tech-stack">
+<div align="center" class="technologies">
   <div align="left">
     
   ## ✨Tech Stack
