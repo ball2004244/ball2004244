@@ -9,10 +9,7 @@ jobs:
   build:
     name: Contribution Snake
     runs-on: ubuntu-latest
-    steps:
-      - name: Create dist folder
-        run: mkdir dist
-          
+    steps:          
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
