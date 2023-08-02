@@ -4,19 +4,19 @@
   ## Hi there, My name is Jack Nguyen - A Backend engineer👨‍💻
   <div align="center" class="contact">
     <a href="https://github.com/ball2004244" target="_blank">
-      <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+      <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&color=gray" alt=github height="40" style="margin-bottom: 5px;" />
     </a>
     <a href="https://linkedin.com/in/tam-nguyen-cs" target="_blank">
-      <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+      <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin height="40" style="margin-bottom: 5px;" />
     </a>
     <a href="https://www.facebook.com/tamnmnk" target="_blank">
-      <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+      <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook height="40" style="margin-bottom: 5px;" />
     </a>
     <a href="https://instagram.com/soul.071" target="_blank">
-      <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+      <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F" alt=instagram height="40" style="margin-bottom: 5px;" />
     </a>
     <a href = "mailto: nguyenminhtam7124@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
+      <img src="https://img.shields.io/badge/-Gmail-%23333?&style=for-the-badge&logo=gmail&logoColor=white&color=red" alt=gmail height="40" style="margin-bottom: 5px;" />
     </a>
   </div>
 </div>
