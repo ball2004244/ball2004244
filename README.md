@@ -15,6 +15,9 @@
     <a href="https://instagram.com/soul.071" target="_blank">
       <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
     </a>
+    <a href = "mailto: nguyenminhtam7124@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
+    </a>
   </div>
 </div>
 
@@ -196,3 +199,5 @@
     <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center"/>
   </a>
 </div>
+
+![Snake animation](https://github.com/ball2004244/ball2004244/blob/output/github-contribution-grid-snake.svg)
