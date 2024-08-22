@@ -1,7 +1,7 @@
 <div align="center" class="welcome"> 
   <img src="hello.gif" alt="Welcome Gif" width="90%" autoplay>
 
-  ## Hi there, My name is Jack Nguyen - A Backend engineer👨‍💻
+  ## Hi there, My name is Tam Nguyen - A Backend engineer👨‍💻
   <div align="center" class="contact">
     <a href="https://github.com/ball2004244" target="_blank">
       <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&color=gray" alt=github height="35" style="margin-bottom: 5px;" />
