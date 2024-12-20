@@ -39,6 +39,12 @@
 <div align="left" class="projects">
   
   ## ✨My Project
+  - LogosDB - a LLM-friendly text database, aimed to store more data with less memory:
+    + Main storage: https://github.com/ball2004244/LogosDB-TopicCluster and https://github.com/ball2004244/LogosDB-TopicCluster-Lite
+    + AI Models: https://github.com/ball2004244/LogosDB-AI-Models
+    + Analysis: https://github.com/ball2004244/LogosDB-Analysis
+    + Data Generator: https://github.com/ball2004244/LogosDB-DataGen
+  - Self-hosted AWS Lambda: https://github.com/ball2004244/Custom-Lambda
   - Cross-platform ChatApp: https://github.com/ball2004244/Message_Platform
   - IdeaBoard for Google Developer Student Club at USF: https://github.com/USFGDSC/USFGDSC-IdeaBoard_GDSC2023
   - Class Registration Website: https://github.com/ball2004244/ClassRegistrationWebsite
