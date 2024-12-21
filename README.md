@@ -45,14 +45,16 @@
     + Analysis: https://github.com/ball2004244/LogosDB-Analysis
     + Data Generator: https://github.com/ball2004244/LogosDB-DataGen
   - Self-hosted AWS Lambda: https://github.com/ball2004244/Custom-Lambda
+  - Json as a language 🤔: https://github.com/ball2004244/PyJSON-Compiler
   - Cross-platform ChatApp: https://github.com/ball2004244/Message_Platform
-  - IdeaBoard for Google Developer Student Club at USF: https://github.com/USFGDSC/USFGDSC-IdeaBoard_GDSC2023
+  - IdeaBoard for USF Google Developer Student Club: https://github.com/USFGDSC/USFGDSC-IdeaBoard_GDSC2023
   - Class Registration Website: https://github.com/ball2004244/ClassRegistrationWebsite
   - USF Chatible for Hackabull 2023: https://github.com/ball2004244/hackabull23
   - Slime Hunter game for Microsoft Pygame Hackathon: https://github.com/ball2004244/Slime-hunter
   - Stock Prediction Model: https://github.com/ball2004244/StockPrediction
   - My very first game: https://github.com/ball2004244/Flappy-Tam
 
+Check out "Repositories" for more interesting projects!
 </div>
 
 <br />
