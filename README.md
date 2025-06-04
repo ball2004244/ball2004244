@@ -29,7 +29,7 @@
   
   ## ✨About Me
   - 🔭 I love researching, building, and shipping!
-  - 🎯 My focus is maintaining Backend and Infrastructure.
+  - 🎯 My focus Backend, Machine Learning and Infrastructure.
   - 🌱 I’m currently learning AWS, Docker, and Kubernetes.
   - ⚡ Fun fact: I love playing rubik!
 </div>
